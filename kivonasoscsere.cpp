@@ -8,9 +8,9 @@ int main()
 
   cin>>szam1>>szam2;
   
-	szam1=szam1+szam2;
-	szam2=szam1-szam2;
-	szam1=szam1-szam2;
+  szam1=szam1+szam2;
+  szam2=szam1-szam2;
+  szam1=szam1-szam2;
 
  cout<<"A szamok csere utan:"<<szam1<<","<<szam2<<"\n";
 }
