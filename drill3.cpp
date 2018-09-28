@@ -9,8 +9,8 @@ int main()
 
 	
 	cout <<"  I have not seen you in a while. ";
-  cout <<"How are you? ";
-  cout <<"I can not wait until I see you!\n";
+  	cout <<"How are you? ";
+  	cout <<"I can not wait until I see you!\n";
 
 	
 	string friend_name;
